@@ -8,6 +8,7 @@
 int main(int argc, char **argv) {
 
     printf("Hello World! It's meee\n");
+    printf("boo! im a monster\n");
 
     return 0;
 }
